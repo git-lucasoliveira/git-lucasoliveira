@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00D1FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Lucas+Oliveira!+%F0%9F%91%8B;Java+Backend+Developer;Spring+Boot+%7C+SQL+Server+%7C+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00D1FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Lucas+Oliveira!+%F0%9F%91%8B;Java+Backend+Developer;+Java+%7C+Spring+Boot+%7C+SQL" alt="Typing SVG" />
 </p>
 
 ---
@@ -32,7 +32,7 @@ I value:
 ### ⚙️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
