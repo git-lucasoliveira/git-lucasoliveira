@@ -36,28 +36,24 @@ I value:
 
 ---
 
-# 🚀 Current Project — StarPeople (HR Management System)
+# 🚀 Current Project — People Manager System
 
-I am currently developing **StarPeople**, a full Human Resources Management Platform featuring:
+I am currently developing **People Manager**, a full Human Resources Management Platform featuring:
 
-- Clean MVC Architecture  
-- Soft Delete  
-- Advanced Filtering  
-- Excel Reports (Apache POI)  
-- Spring Boot 3 + Java 21 + SQL Server + Docker  
+- **Clean MVC Architecture**
+- **Soft Delete & Advanced Filtering**
+- **Excel Reports (Apache POI)**
+- **Tech Stack:** Spring Boot 3 + Java 21 + SQL Server + Docker
 
-👉 **Repository:**  
-https://github.com/git-lucasoliveira/people-manager
+👉 **Access the Repository:** [git-lucasoliveira/people-manager](https://github.com/git-lucasoliveira/people-manager)
 
 ---
 
 # 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/git-lucasoliveira">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=git-lucasoliveira&show_icons=true&theme=dracula"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-lucasoliveira&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=git-lucasoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-lucasoliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
