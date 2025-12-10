@@ -49,16 +49,6 @@ I am currently developing **People Manager**, a full Human Resources Management 
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center"> 
-  <a href="https://github.com/git-lucasoliveira"> 
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=git-lucasoliveira&show_icons=true&theme=dracula"/> 
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-lucasoliveira&layout=compact&langs_count=7&theme=dracula"/> 
-  </a> 
-</div>
-
-
 # 🌎 Contact
 
 <p align="center">
