@@ -37,7 +37,7 @@ I am currently developing **People Manager**, a full Human Resources Management 
 ---
 
 <div align="center">
-  <img src="https://github.com/git-lucasoliveira/git-lucasoliveira/raw/output/pacman-contribution-graph.svg" alt="Pacman Animation" />
+  <img src="https://github.com/git-lucasoliveira/git-lucasoliveira/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
