@@ -40,16 +40,18 @@ I am currently developing **People Manager**, a full Human Resources Management 
 # 🌎 Contact
 
 <p align="center">
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/lucasoliveiraamorim/" target="_blank">
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:lucas.oliveiraa120505@gmail.com" target="_blank>
-  <a href="https://skillicons.dev">
+
+  <!-- Gmail -->
+  <a href="mailto:lucas.oliveiraa120505@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+
 </p>
-  </a>
-</p>
+
 
 ---
