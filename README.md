@@ -49,7 +49,3 @@ I am currently developing **People Manager**, a full Human Resources Management 
 </p>
 
 ---
-
-<p align="center">
-  <em>“Improving a little every day beats trying to be perfect.”</em>
-</p>
