@@ -1,36 +1,28 @@
-name: Generate pacman animation
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *" 
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate SVG
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate Snake (Dark Mode)
+        uses: Platane/snk@v3
         with:
-          github_user_name: git-lucasoliveira
-          # Cor do Fundo (Escuro do GitHub)
-          background_color: '#0d1117'
-          # Cor do Pacman (Amarelo)
-          snake_color: '#fdd835'
-          # Cores dos Pontinhos/Fantasmas
-          dot_color: '#fdd835,#bf360c,#fb8c00,#ffeb3b,#76ff03'
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
