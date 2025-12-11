@@ -1,8 +1,11 @@
 name: Generate Snake
 
 on:
+  # Executa automaticamente a cada 24 horas
   schedule:
     - cron: "0 0 * * *" 
+  
+  # Permite executar manualmente na aba Actions
   workflow_dispatch:
 
 jobs:
@@ -13,13 +16,14 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Snake (Dark Mode)
+      - name: Generate Snake (Pacman Edition)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/pacman.svg?color_snake=#fdd835&color_dots=#0d1117,#bf360c,#fb8c00,#ffeb3b,#76ff03
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
