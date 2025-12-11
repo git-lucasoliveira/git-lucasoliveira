@@ -22,6 +22,12 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: git-lucasoliveira
+          # Cor do Fundo (Escuro do GitHub)
+          background_color: '#0d1117'
+          # Cor do Pacman (Amarelo)
+          snake_color: '#fdd835'
+          # Cores dos Pontinhos/Fantasmas
+          dot_color: '#fdd835,#bf360c,#fb8c00,#ffeb3b,#76ff03'
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
