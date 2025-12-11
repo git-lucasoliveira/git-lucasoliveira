@@ -41,10 +41,14 @@ I am currently developing **People Manager**, a full Human Resources Management 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasoliveiraamorim/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <a href="mailto:lucas.oliveiraa120505@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:lucas.oliveiraa120505@gmail.com" target="_blank>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
   </a>
 </p>
 
