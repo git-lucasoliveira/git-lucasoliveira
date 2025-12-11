@@ -34,6 +34,11 @@ I am currently developing **People Manager**, a full Human Resources Management 
 - **Tech Stack:** Spring Boot 3 + Java 21 + SQL Server + Docker
 
 👉 **Access the Repository:** [git-lucasoliveira/people-manager](https://github.com/git-lucasoliveira/people-manager)
+---
+
+<div align="center">
+  <img src="https://github.com/git-lucasoliveira/git-lucasoliveira/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
