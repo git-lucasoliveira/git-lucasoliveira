@@ -6,15 +6,8 @@
 
 # 👨‍💻 About Me
 
-I am a **Java Backend Developer** passionate about building robust, scalable, and well-architected applications.  
-My background started in **IT Support and SQL Server**, and today I am fully focused on backend engineering using **Spring Boot**.
-
-I value:
-
-- Clean, maintainable code  
-- Solid architectural patterns  
-- Performance & scalability  
-- Professional, production-ready software  
+I am a **Java Backend Developer** passionate about building robust, scalable, and well-architected applications.
+A continuously evolving professional, focused on full-stack application development and strengthened by key tech soft skills such as clear communication, problem-solving, teamwork, and adaptability.
 
 ---
 
@@ -24,16 +17,35 @@ I value:
 
 ---
 
-# 🚀 Current Project — People Manager System
+# 🚀 Current Project — StarPeople (Employee Management System)
 
-I am currently developing **People Manager**, a full Human Resources Management Platform featuring:
+A corporate Human Resources Management platform focused on scalability, data security, and clean architecture.
 
-- **Clean MVC Architecture**
-- **Soft Delete & Advanced Filtering**
-- **Excel Reports (Apache POI)**
-- **Tech Stack:** Spring Boot 3 + Java 21 + SQL Server + Docker
+<details>
+  <summary><strong>📌 View Full Project Details</strong></summary>
 
-👉 **Access the Repository:** [git-lucasoliveira/people-manager](https://github.com/git-lucasoliveira/people-manager)
+### 🛠️ Tech Stack
+- **Backend:** Java 21, Spring Boot 3, Spring Data JPA  
+- **Security:** Spring Security 6 (Authentication, Authorization, RBAC)  
+- **Database:** Microsoft SQL Server  
+- **Frontend:** Thymeleaf, Bootstrap 5, HTML5/CSS3  
+- **Tools:** Maven, Git, IntelliJ IDEA  
+
+### ✨ Key Features & Deliverables
+- **Robust MVC Architecture:** Layered structure with dependency injection  
+- **Advanced Security (RBAC):** Roles ADMIN & RH, BCrypt, route protection  
+- **Smart Data Management:**  
+  - Soft Delete  
+  - Dynamic filters (Name, CPF, Department, Status)  
+  - Server-side pagination (Pageable)  
+- **Dynamic Reports:** Excel (.xlsx) generation using Apache POI  
+- **Standardized Interface:** Thymeleaf fragments + responsive layout  
+
+</details>
+
+👉 **Repository:** https://github.com/git-lucasoliveira/people-manager
+
+
 ---
 
 ---
