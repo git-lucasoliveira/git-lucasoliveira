@@ -53,7 +53,6 @@ A corporate Human Resources Management platform focused on scalability, data sec
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/git-lucasoliveira/git-lucasoliveira/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 ---
 
 <h2>📫 Contact</h2>
