@@ -17,7 +17,7 @@ A continuously evolving professional, focused on full-stack application developm
 
 ---
 
-# 🚀 Current Project — StarPeople (Employee Management System)
+# 🚀 Current Project — RH System (Employee Management System)
 
 A corporate Human Resources Management platform focused on scalability, data security, and clean architecture.
 
@@ -43,7 +43,7 @@ A corporate Human Resources Management platform focused on scalability, data sec
 
 </details>
 
-👉 **Repository:** https://github.com/git-lucasoliveira/people-manager
+👉 **Repository:** https://github.com/git-lucasoliveira/rh-system
 
 
 ---
