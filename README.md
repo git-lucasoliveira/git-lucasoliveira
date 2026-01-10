@@ -41,7 +41,7 @@ An open-source employee onboarding platform featuring JWT authentication, comple
 
 </details>
 
-👉 **Repository:** https://github.com/git-lucasoliveira/rh-system
+👉 **Repository:** https://github.com/git-lucasoliveira/onboarding-manager
 
 
 ---
