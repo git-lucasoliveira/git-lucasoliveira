@@ -25,21 +25,19 @@ An open-source employee onboarding platform featuring JWT authentication, comple
   <summary><strong>📌 View Full Project Details</strong></summary>
 
 ### 🛠️ Tech Stack
-- **Backend:** Java 21, Spring Boot 3, Spring Data JPA  
-- **Security:** Spring Security 6 (Authentication, Authorization, RBAC)  
-- **Database:** Microsoft SQL Server  
-- **Frontend:** Thymeleaf, Bootstrap 5, HTML5/CSS3  
-- **Tools:** Maven, Git, IntelliJ IDEA  
+- **Backend:** Java, Spring Boot, Spring Data JPA, Spring Security  
+- **Database:** SQL Server + JPA/Hibernate  
+- **API:** REST API with Swagger/OpenAPI documentation  
+- **Build & Test:** Maven, JUnit 5  
 
-### ✨ Key Features & Deliverables
-- **Robust MVC Architecture:** Layered structure with dependency injection  
-- **Advanced Security (RBAC):** Roles ADMIN & RH, BCrypt, route protection  
-- **Smart Data Management:**  
-  - Soft Delete  
-  - Dynamic filters (Name, CPF, Department, Status)  
-  - Server-side pagination (Pageable)  
-- **Dynamic Reports:** Excel (.xlsx) generation using Apache POI  
-- **Standardized Interface:** Thymeleaf fragments + responsive layout  
+### ✨ Key Features & Architecture
+- **Enterprise Security:** JWT authentication, role-based access control (RBAC), BCrypt encryption  
+- **Audit & Compliance:** Complete audit trail with timestamps, user tracking, soft delete  
+- **Document Automation:** Automated PDF generation for employee responsibility terms  
+- **Data Validation:** Bean Validation with custom validators, business rules enforcement  
+- **Smart Queries:** Advanced filtering, server-side pagination, dynamic search  
+- **Clean Architecture:** Layered design with DTOs, service layer, repository pattern  
+- **API Documentation:** Interactive Swagger UI for testing and integration  
 
 </details>
 
