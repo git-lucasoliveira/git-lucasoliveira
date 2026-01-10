@@ -17,9 +17,9 @@ A continuously evolving professional, focused on full-stack application developm
 
 ---
 
-# 🚀 Current Project — RH System (Employee Management System)
+# 🚀 Current Project — RH System (Automated Process System)
 
-A corporate Human Resources Management platform focused on scalability, data security, and clean architecture.
+An open-source employee onboarding platform featuring JWT authentication, complete audit logging, automatic document generation (PDF), and enterprise-grade security with Spring Security. Built as a showcase of clean architecture and best practices.
 
 <details>
   <summary><strong>📌 View Full Project Details</strong></summary>
