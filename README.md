@@ -17,7 +17,7 @@ A continuously evolving professional, focused on full-stack application developm
 
 ---
 
-# 🚀 Current Project — RH System (Automated Process System)
+# 🚀 Highlight Project — RH System (Automated Process System)
 
 An open-source employee onboarding platform featuring JWT authentication, complete audit logging, automatic document generation (PDF), and enterprise-grade security with Spring Security. Built as a showcase of clean architecture and best practices.
 
