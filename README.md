@@ -6,7 +6,7 @@
 
 # 👨‍💻 About Me
 
-I am a **Java Backend Developer** passionate about building robust, scalable, and well-architected applications. Currently pursuing a **Postgraduate Degree in Software Architecture at FIAP**, I am continuously evolving my skills in the Java ecosystem, Cloud Computing (AWS), and Microservices.
+I am a **Java Backend Developer** at a consumer-credit fintech, where I build and maintain the internal platforms the operation runs on — replacing manual processes with software, and measuring the result. Currently pursuing a **Postgraduate Degree in Software Architecture at FIAP**, I focus on the Java ecosystem, Cloud Computing (AWS), and architecture decisions that are justified and measured rather than fashionable.
 
 Beyond coding, I strongly value soft skills such as clear communication, problem-solving, and teamwork, always striving to understand the business needs to deliver impactful technical solutions.
 
@@ -23,6 +23,24 @@ Beyond coding, I strongly value soft skills such as clear communication, problem
 ---
 
 # 🚀 Featured Projects
+
+### 🏦 StarSuite — Internal Credit Operations Platform
+> *Professional work — source code is private (company-owned). Described here at the level of architecture and outcomes.*
+
+The platform a consumer-credit fintech runs its operation on: 11 multi-tenant modules that replaced manual, spreadsheet-driven processes with software. I created it and remain its main developer as the project grew to involve other engineers.
+
+<details>
+  <summary><strong>📌 View Full Project Details</strong></summary>
+
+- **Tech Stack:** Java 21, Spring Boot, PostgreSQL, Flyway, Docker, AWS (EC2, ECR, RDS), Resilience4j, Google Gemini API.
+- **Measured Impact:** ~700 hours of manual work removed in 4 months — 2,800+ credit applications whose document validation took ~15 minutes each now complete in seconds, via an AI-assisted document analysis pipeline wired into the credit flow.
+- **Financial Precision:** custom debt-evolution engine built entirely on `BigDecimal` with a Newton-Raphson solver for daily-rate conversion, versioned so a statement generated today stays reproducible later — `Math.pow(double, double)` accumulates cent-level error over 96+ installment loans.
+- **Throughput:** scheduled reprocessing that re-runs 3,000+ debt statements in a 3-hour window — a volume that was never feasible manually.
+- **Architecture:** Clean Architecture per module (domain → application → infrastructure), multi-tenant isolation, role-based access control, full operation audit logging, and resilient outbound integrations (circuit breaker + bulkhead, async outbox with reconciliation).
+- **Decisions on record:** architecture decisions documented as ADRs — including the deliberate choice *not* to scale horizontally, backed by measured load.
+</details>
+
+---
 
 ### 🏢 RH System (Enterprise Onboarding API)
 An open-source employee onboarding platform featuring stateless JWT authentication, complete audit logging, and automatic document generation (PDF). Built as a showcase of clean architecture, SOLID principles, and enterprise-grade security.
