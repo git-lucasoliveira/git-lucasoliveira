@@ -14,10 +14,10 @@ Beyond coding, I strongly value soft skills such as clear communication, problem
 
 # 🛠️ Tech Stack
 
-### ⚙️ Core: Backend & Cloud
+### ⚙️ Backend & Cloud
 [![Backend Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,aws,docker,linux)](https://skillicons.dev)
 
-### 🎨 Integração & Ferramentas
+### 🎨 Frontend & Tools
 [![Frontend & Tools](https://skillicons.dev/icons?i=js,html,css,git,github)](https://skillicons.dev)
 
 ---
